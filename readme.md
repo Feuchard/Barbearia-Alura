@@ -53,5 +53,8 @@ Esse projeto foi desenvolvido com os conhecimentos que adquiri nas aulas de HTML
     <li>Saiba como lidar com opacidade e sombra</li>
     <li>Entenda sobre o Viewport e design responsivo</li>
 </div>  
-
-##
+  
+## Visualize o projeto
+  
+  <ul>
+    <li><a href="https://feuchard.github.io/Barbearia-Alura/" target="_blank">Barberia Alura - 2023</li
