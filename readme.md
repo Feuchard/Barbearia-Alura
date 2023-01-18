@@ -57,4 +57,5 @@ Esse projeto foi desenvolvido com os conhecimentos que adquiri nas aulas de HTML
 ## Visualize o projeto
   
   <ul>
-    <li><a href="https://feuchard.github.io/Barbearia-Alura/" target="_blank">Barbearia Alura - 2023</li
+    <li><a href="https://feuchard.github.io/Barbearia-Alura/" target="_blank">Barbearia Alura - 2023</li>
+  </ul>
